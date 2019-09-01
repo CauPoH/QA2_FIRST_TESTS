@@ -9,6 +9,7 @@ public class OurFirstTest {
 
     @Test
     public void showSum() {
+        // Da vsjo horosho
         Integer c;
         Integer d;
 
